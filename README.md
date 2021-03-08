@@ -1,2 +1,2 @@
 # radar_make
-radar_make
+バイト先で作ったレーダーチャート作成ツール
